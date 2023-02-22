@@ -24,7 +24,6 @@ function App() {
       <div class="container">
         <button onClick={increment}>Increment</button>
         <h1>{count}</h1>
-        <p>hii</p>
         <button onClick={decrement}>Decrementr</button>
       </div>
     </div>
